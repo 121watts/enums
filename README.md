@@ -1,0 +1,4 @@
+enums
+=====
+
+jumpstart enumerable exercises
